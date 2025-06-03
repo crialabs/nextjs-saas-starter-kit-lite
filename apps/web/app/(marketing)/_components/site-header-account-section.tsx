@@ -12,6 +12,7 @@ import { Button } from '@kit/ui/button';
 import { If } from '@kit/ui/if';
 import { Trans } from '@kit/ui/trans';
 
+import { LanguageSwitch } from './language-switch';
 import featuresFlagConfig from '~/config/feature-flags.config';
 import pathsConfig from '~/config/paths.config';
 
@@ -63,22 +64,22 @@ function SuspendedPersonalAccountDropdown(props: { user: User | null }) {
 
 function AuthButtons() {
   return (
-    <div className={'flex space-x-2'}>
-      <div className={'hidden space-x-0.5 md:flex'}>
-        <If condition={features.enableThemeToggle}>
-          <ModeToggle />
-        </If>
+    <div className="flex items-center space-x-2">
+      <If condition={features.enableThemeToggle}>
+        <ModeToggle />
+      </If>
 
-        <Button asChild variant={'ghost'}>
-          <Link href={pathsConfig.auth.signIn}>
-            <Trans i18nKey={'auth:signIn'} />
-          </Link>
-        </Button>
-      </div>
+      <LanguageSwitch />
 
-      <Button asChild className="group" variant={'default'}>
+      <Button asChild variant="outline">
+        <Link href={pathsConfig.auth.signIn}>
+          <Trans i18nKey="auth:signIn" />
+        </Link>
+      </Button>
+
+      <Button asChild>
         <Link href={pathsConfig.auth.signUp}>
-          <Trans i18nKey={'auth:signUp'} />
+          <Trans i18nKey="auth:signUp" />
         </Link>
       </Button>
     </div>

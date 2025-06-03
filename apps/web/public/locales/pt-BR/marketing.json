@@ -1,0 +1,105 @@
+{
+  "hero": {
+    "title": "Seu cassino Online em até 48hs",
+    "description": "Cada dia fora do ar é dinheiro que vai para concorrência. Inicie agora mesmo seu projeto conosco e venha para o mercado mais lucrativo de 2025",
+    "cta": "Solicitar Demonstração"
+  },
+  "whyChooseUs": {
+    "title": "Por que Escolher a Orbit Gaming?",
+    "description": "Na Orbit Gaming, não vendemos apenas plataformas: entregamos resultados rápidos e sustentáveis. Nossa missão é impulsionar o seu negócio oferecendo uma experiência única para o usuário final, combinada com um modelo de gestão eficiente, simples e altamente lucrativo.",
+    "features": {
+      "velocity": {
+        "title": "Velocidade",
+        "description": "Setup completo em apenas 48h"
+      },
+      "stability": {
+        "title": "Estabilidade",
+        "description": "Uptime de 99,98%. Sistemas robustos para operação contínua."
+      },
+      "security": {
+        "title": "Segurança",
+        "description": "Proteção de última geração para seus dados e transações."
+      },
+      "scalability": {
+        "title": "Escalabilidade",
+        "description": "Crescimento sem limites. Nossa plataforma escala com seu negócio."
+      }
+    }
+  },
+  "uniqueFeatures": {
+    "title": "Nossos Diferenciais Únicos",
+    "conversion": {
+      "title": "Até 50% Mais Conversão com o Mesmo Tráfego",
+      "description": "UX otimizada, carregamento rápido, jornada fluida. Nossos clientes relatam o dobro de conversão usando os mesmos esforços de tráfego e mídia. Menos desperdício. Mais lucro.",
+      "cta": "Saiba Mais"
+    },
+    "partnership": {
+      "title": "Parceria Real, Suporte Real",
+      "description": "Aqui você não fala com chatbot. Você fala com gente experiente, que entende a sua operação e responde quando precisa.",
+      "benefits": [
+        "Suporte técnico 24/7 em português",
+        "Gerente dedicado para sua conta",
+        "Consultoria estratégica contínua",
+        "Atendimento humano, ágil e focado em solução"
+      ]
+    }
+  },
+  "securePlatform": {
+    "title": "Plataforma Segura e 100% Compatível",
+    "description": "Infra AWS dedicada, criptografia avançada e total compliance com legislações globais. Operar com a Orbit é ter tranquilidade jurídica e técnica para focar no crescimento do seu negócio.",
+    "features": [
+      "Infraestrutura AWS dedicada",
+      "Criptografia avançada",
+      "Compliance com legislações globais",
+      "Proteção contra ataques DDoS"
+    ]
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "description": "Pronto para iniciar seu projeto? Entre em contato conosco e tenha seu cassino online em até 48 horas.",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "message": "Mensagem",
+      "namePlaceholder": "Seu nome",
+      "emailPlaceholder": "seu@email.com",
+      "submit": "Solicitar Demonstração"
+    }
+  },
+  "blog": "Blog",
+  "blogSubtitle": "Notícias e atualizações sobre a plataforma",
+  "documentation": "Documentação",
+  "documentationSubtitle": "Tutoriais e guias para começar a usar a plataforma",
+  "faq": "Perguntas Frequentes",
+  "faqSubtitle": "Perguntas frequentes sobre a plataforma",
+  "pricing": "Preços",
+  "pricingSubtitle": "Planos de preços e opções de pagamento",
+  "backToBlog": "Voltar para o blog",
+  "noPosts": "Nenhuma postagem encontrada",
+  "blogPaginationNext": "Próxima Página",
+  "blogPaginationPrevious": "Página Anterior",
+  "readMore": "Ler mais",
+  "contactFaq": "Se você tiver alguma dúvida, entre em contato conosco",
+  "about": "Sobre",
+  "product": "Produto",
+  "legal": "Jurídico",
+  "termsOfService": "Termos de Serviço",
+  "termsOfServiceDescription": "Nossos termos e condições",
+  "cookiePolicy": "Política de Cookies",
+  "cookiePolicyDescription": "Nossa política de cookies e como os utilizamos",
+  "privacyPolicy": "Política de Privacidade",
+  "privacyPolicyDescription": "Nossa política de privacidade e como usamos seus dados",
+  "contactDescription": "Entre em contato para quaisquer dúvidas ou feedback",
+  "contactHeading": "Envie-nos uma mensagem",
+  "contactSubheading": "Retornaremos o mais breve possível",
+  "contactName": "Seu Nome",
+  "contactEmail": "Seu E-mail",
+  "contactMessage": "Sua Mensagem",
+  "sendMessage": "Enviar Mensagem",
+  "contactSuccess": "Sua mensagem foi enviada com sucesso",
+  "contactError": "Ocorreu um erro ao enviar sua mensagem",
+  "contactSuccessDescription": "Recebemos sua mensagem e retornaremos o mais breve possível",
+  "contactErrorDescription": "Ocorreu um erro ao enviar sua mensagem. Por favor, tente novamente mais tarde",
+  "footerDescription": "Aqui você pode adicionar uma descrição sobre sua empresa ou produto",
+  "copyright": "© Copyright {{year}} {{product}}. Todos os direitos reservados."
+}

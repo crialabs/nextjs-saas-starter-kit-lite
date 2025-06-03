@@ -1,0 +1,118 @@
+{
+  "subscriptionTabSubheading": "Gerencie sua Assinatura e Cobrança",
+  "planCardTitle": "Seu Plano",
+  "planCardDescription": "Abaixo estão os detalhes do seu plano atual. Você pode alterar seu plano ou cancelar sua assinatura a qualquer momento.",
+  "planRenewal": "Renova a cada {{interval}} por {{price}}",
+  "planDetails": "Detalhes do Plano",
+  "checkout": "Finalizar Compra",
+  "trialEndsOn": "Seu período de teste termina em",
+  "billingPortalCardButton": "Acessar Portal de Cobrança",
+  "billingPortalCardTitle": "Gerencie seus Dados de Cobrança",
+  "billingPortalCardDescription": "Acesse seu Portal de Cobrança para gerenciar sua assinatura e cobrança. Você pode atualizar ou cancelar seu plano, ou baixar suas faturas.",
+  "cancelAtPeriodEndDescription": "Sua assinatura está programada para ser cancelada em {{- endDate }}.",
+  "renewAtPeriodEndDescription": "Sua assinatura será renovada em {{- endDate }}",
+  "noPermissionsAlertHeading": "Você não tem permissão para alterar as configurações de cobrança",
+  "noPermissionsAlertBody": "Entre em contato com o proprietário da conta para alterar as configurações de cobrança.",
+  "checkoutSuccessTitle": "Pronto! Tudo certo.",
+  "checkoutSuccessDescription": "Obrigado por assinar, processamos sua assinatura com sucesso! Um e-mail de confirmação será enviado para {{ customerEmail }}.",
+  "checkoutSuccessBackButton": "Ir para o Aplicativo",
+  "cannotManageBillingAlertTitle": "Você não pode gerenciar cobranças",
+  "cannotManageBillingAlertDescription": "Você não tem permissão para gerenciar cobranças. Entre em contato com o proprietário da conta.",
+  "manageTeamPlan": "Gerencie seu Plano de Equipe",
+  "manageTeamPlanDescription": "Escolha um plano que atenda às necessidades da sua equipe. Você pode atualizar ou rebaixar seu plano a qualquer momento.",
+  "basePlan": "Plano Base",
+  "billingInterval": {
+    "label": "Escolha o intervalo de cobrança",
+    "month": "Cobrança mensal",
+    "year": "Cobrança anual"
+  },
+  "perMonth": "por mês",
+  "custom": "Plano Personalizado",
+  "lifetime": "Vitalício",
+  "trialPeriod": "{{period}} dias de teste",
+  "perPeriod": "por {{period}}",
+  "redirectingToPayment": "Redirecionando para o pagamento. Aguarde...",
+  "proceedToPayment": "Prosseguir para Pagamento",
+  "startTrial": "Iniciar Teste Grátis",
+  "perTeamMember": "Por membro da equipe",
+  "perUnit": "Por {{unit}} de uso",
+  "teamMembers": "Membros da Equipe",
+  "includedUpTo": "Até {{upTo}} {{unit}} incluídos no plano",
+  "fromPreviousTierUpTo": "para cada {{unit}} para os próximos {{ upTo }} {{ unit }}",
+  "andAbove": "acima de {{ previousTier }} {{ unit }}",
+  "forEveryUnit": "para cada {{ unit }}",
+  "setupFee": "mais uma taxa de instalação de {{ setupFee }}",
+  "perUnitIncluded": "({{included}} incluídos)",
+  "featuresLabel": "Recursos",
+  "detailsLabel": "Detalhes",
+  "planPickerLabel": "Escolha seu plano preferido",
+  "planCardLabel": "Gerencie seu Plano",
+  "planPickerAlertErrorTitle": "Erro ao solicitar pagamento",
+  "planPickerAlertErrorDescription": "Ocorreu um erro ao solicitar o pagamento. Por favor, tente novamente mais tarde.",
+  "subscriptionCancelled": "Assinatura Cancelada",
+  "cancelSubscriptionDate": "Sua assinatura será cancelada no final do período",
+  "noPlanChosen": "Por favor, escolha um plano",
+  "noIntervalPlanChosen": "Por favor, escolha um intervalo de cobrança",
+  "status": {
+    "free": {
+      "badge": "Plano Grátis",
+      "heading": "Você está atualmente no Plano Gratuito",
+      "description": "Você está em um plano gratuito. Você pode atualizar para um plano pago a qualquer momento."
+    },
+    "active": {
+      "badge": "Ativo",
+      "heading": "Sua assinatura está ativa",
+      "description": "Sua assinatura está ativa. Você pode gerenciar sua assinatura e cobrança no Portal do Cliente."
+    },
+    "trialing": {
+      "badge": "Teste",
+      "heading": "Você está em período de teste",
+      "description": "Você pode desfrutar dos benefícios do plano até o final do período de teste"
+    },
+    "past_due": {
+      "badge": "Vencido",
+      "heading": "Sua fatura está vencida",
+      "description": "Sua fatura está vencida. Por favor, atualize seu método de pagamento."
+    },
+    "canceled": {
+      "badge": "Cancelado",
+      "heading": "Sua assinatura foi cancelada",
+      "description": "Sua assinatura foi cancelada. Está programada para terminar no final do período de cobrança."
+    },
+    "unpaid": {
+      "badge": "Não Pago",
+      "heading": "Sua fatura não foi paga",
+      "description": "Sua fatura não foi paga. Por favor, atualize seu método de pagamento."
+    },
+    "incomplete": {
+      "badge": "Incompleto",
+      "heading": "Estamos aguardando seu pagamento",
+      "description": "Estamos aguardando a confirmação do seu pagamento. Por favor, aguarde um momento."
+    },
+    "incomplete_expired": {
+      "badge": "Expirado",
+      "heading": "Seu pagamento expirou",
+      "description": "Seu pagamento expirou. Por favor, atualize seu método de pagamento."
+    },
+    "paused": {
+      "badge": "Pausado",
+      "heading": "Sua assinatura está pausada",
+      "description": "Sua assinatura está pausada. Você pode retomá-la a qualquer momento."
+    },
+    "succeeded": {
+      "badge": "Sucesso",
+      "heading": "Seu pagamento foi bem-sucedido",
+      "description": "Seu pagamento foi processado com sucesso. Obrigado por assinar!"
+    },
+    "pending": {
+      "badge": "Pendente",
+      "heading": "Seu pagamento está pendente",
+      "description": "Seu pagamento está sendo processado. Por favor, aguarde um momento."
+    },
+    "failed": {
+      "badge": "Falhou",
+      "heading": "Seu pagamento falhou",
+      "description": "Não foi possível processar seu pagamento. Por favor, atualize seu método de pagamento."
+    }
+  }
+}
